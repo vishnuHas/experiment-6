@@ -1,10 +1,6 @@
 hello how are you how are
 color white
-<<<<<<< HEAD
 how are you sssir
 i have change the color as red
-
-=======
 i have change the color as red
 ggg
->>>>>>> d990fb0 (m)
